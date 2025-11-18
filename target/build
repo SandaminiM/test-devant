@@ -1,5 +1,5 @@
 {
-  "last_build_time": 1763443194278,
+  "last_build_time": 1763444027493,
   "last_update_time": 1763370885105,
   "last_bal_toml_update_time": 1763370217560,
   "distribution_version": "2201.13.1",
@@ -19,12 +19,6 @@
   },
   "src_meta_info": [
     {
-      "file": "C:\\Users\\Sandamini\\Documents\\WORK\\Devant\\test-devant-1\\agents.bal",
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "lastModifiedTime": 1763370229109
-    },
-    {
       "file": "C:\\Users\\Sandamini\\Documents\\WORK\\Devant\\test-devant-1\\automation.bal",
       "hash": "39311aed9f3a328c61a627e1c8a41d2c467649a2b4fc96be863d2626a714e9d7",
       "size": 247,
@@ -35,49 +29,13 @@
       "hash": "c1ede2cd4bc7c16fc95aa7090f56b09c3c35631560aec84c0092a15ee90269ee",
       "size": 73,
       "lastModifiedTime": 1763370217560
-    },
-    {
-      "file": "C:\\Users\\Sandamini\\Documents\\WORK\\Devant\\test-devant-1\\config.bal",
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "lastModifiedTime": 1763370229111
-    },
-    {
-      "file": "C:\\Users\\Sandamini\\Documents\\WORK\\Devant\\test-devant-1\\connections.bal",
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "lastModifiedTime": 1763370229111
-    },
-    {
-      "file": "C:\\Users\\Sandamini\\Documents\\WORK\\Devant\\test-devant-1\\data_mappings.bal",
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "lastModifiedTime": 1763370229111
-    },
-    {
-      "file": "C:\\Users\\Sandamini\\Documents\\WORK\\Devant\\test-devant-1\\functions.bal",
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "lastModifiedTime": 1763370229111
-    },
-    {
-      "file": "C:\\Users\\Sandamini\\Documents\\WORK\\Devant\\test-devant-1\\main.bal",
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "lastModifiedTime": 1763370229111
-    },
-    {
-      "file": "C:\\Users\\Sandamini\\Documents\\WORK\\Devant\\test-devant-1\\types.bal",
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "lastModifiedTime": 1763370229112
     }
   ],
   "target_exec_meta_info": {
     "file": "C:\\Users\\Sandamini\\Documents\\WORK\\Devant\\test-devant-1\\target\\backup\\bin\\test_devant.jar",
-    "hash": "fb64cb0dffc6eaec1baf34449a0aa0950adbb0bae03140209ff0d60c5fbb1b13",
+    "hash": "5fcf172d906deaa60e3c0065d00fd07091ecf5a674b70c9a4ad67e1a30027983",
     "size": 11308895,
-    "lastModifiedTime": 1763443194842
+    "lastModifiedTime": 1763444028044
   },
   "settings_meta_info": {
     "file": "C:\\Users\\Sandamini\\.ballerina\\Settings.toml",

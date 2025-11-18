@@ -1,0 +1,49 @@
+# Ballerina Build Artifacts
+target/
+generated/
+.ballerina/
+
+# Ballerina Lock Files
+*Ballerina.lock
+
+# Ballerina Config Files (may contain sensitive data)
+**/Config.toml
+accessToken.bal
+temp.bal
+
+# IDE Files
+.vscode/
+.idea/
+*.iml
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment Files
+.env
+.env.local
+
+# Logs
+*.log
+
+# Compiled Files
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+
+# Compressed Files
+*.zip
+*.tar.gz
+*.rar
+
+# Other
+.mtj.tmp/
+hs_err_pid*
+replay_pid*
+**/.mvn/
+mvnw
+mvnw.cmd
