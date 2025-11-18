@@ -1,0 +1,4 @@
+[package]
+org = "testorgsandamini"
+name = "automation_test"
+version = "1.0.0"
