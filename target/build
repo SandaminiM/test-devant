@@ -1,10 +1,10 @@
 {
-  "last_build_time": 1763444027493,
-  "last_update_time": 1763370885105,
+  "last_build_time": 1763526276940,
+  "last_update_time": 1763526276940,
   "last_bal_toml_update_time": 1763370217560,
   "distribution_version": "2201.13.1",
   "last_modified_time": {
-    "test_devant": 1763370803703
+    "test_devant": 1763526259996
   },
   "last_build_options": {
     "testReport": false,
@@ -29,13 +29,19 @@
       "hash": "c1ede2cd4bc7c16fc95aa7090f56b09c3c35631560aec84c0092a15ee90269ee",
       "size": 73,
       "lastModifiedTime": 1763370217560
+    },
+    {
+      "file": "C:\\Users\\Sandamini\\Documents\\WORK\\Devant\\test-devant-1\\service.bal",
+      "hash": "af4523cf24ec46e2d12c61168f60812e0e8e8dde3d12bad462141b2a2add58dc",
+      "size": 288,
+      "lastModifiedTime": 1763526259996
     }
   ],
   "target_exec_meta_info": {
     "file": "C:\\Users\\Sandamini\\Documents\\WORK\\Devant\\test-devant-1\\target\\backup\\bin\\test_devant.jar",
-    "hash": "5fcf172d906deaa60e3c0065d00fd07091ecf5a674b70c9a4ad67e1a30027983",
-    "size": 11308895,
-    "lastModifiedTime": 1763444028044
+    "hash": "0c222e564e91eace6c893d6b9fb0af2d50aca3b3f6b72ed72a6213b31c8a5299",
+    "size": 45856063,
+    "lastModifiedTime": 1763526280781
   },
   "settings_meta_info": {
     "file": "C:\\Users\\Sandamini\\.ballerina\\Settings.toml",
@@ -51,6 +57,7 @@
   },
   "imports": [
     "ballerina/io",
-    "ballerina/log"
+    "ballerina/log",
+    "ballerina/http"
   ]
 }
