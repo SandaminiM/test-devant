@@ -18,7 +18,9 @@ public type NewUser record {|
     string email;
 |};
 
-service /graphql on new graphql:Listener(9090) {
+listener graphql:Listener graphqlListener = new (9090);
+
+service /graphql on graphqlListener {
 
     # A simple greeting.
     # + return - a greeting string
