@@ -8,7 +8,7 @@ import ballerina/log;
 # - `budget`    -> number field     (decimal; accepts a decimal point)
 # - `tags`      -> multi-text field  (rest parameter -> repeatable string)
 #
-# Note: a REST parameter cannot be combined with defaultable parameters, so every
+# A REST parameter cannot be combined with defaultable parameters, so every
 # fixed parameter here is required. boolean and enum are rejected as `main` operands
 # by the compiler, so dropdown/checkbox fields are not achievable from Ballerina —
 # they only appear for image/Docker automations that declare CLI args manually.
