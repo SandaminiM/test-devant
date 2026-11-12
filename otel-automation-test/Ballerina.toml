@@ -1,0 +1,8 @@
+[package]
+org = "testorgsandamini"
+name = "otel_automation_test"
+version = "1.0.0"
+distribution = "2201.14.1"
+
+[build-options]
+observabilityIncluded = true
